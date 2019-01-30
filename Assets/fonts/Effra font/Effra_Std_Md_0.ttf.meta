@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9b578953c7cf48a4e97a05959284f6c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Effra Medium
+  fontNames:
+  - Effra Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4fbfa9a302738ec419311da67132fa05, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

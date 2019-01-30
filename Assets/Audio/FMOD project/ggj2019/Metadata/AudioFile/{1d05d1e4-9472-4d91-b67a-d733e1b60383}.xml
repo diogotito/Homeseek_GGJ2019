@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{1d05d1e4-9472-4d91-b67a-d733e1b60383}">
+        <property name="assetPath">
+            <value>CUTSCENES/Kittens_In_Kennel.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>30.040816326530614</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3c356ca6-3514-48b7-85b6-26ab796e8090}</destination>
+        </relationship>
+    </object>
+</objects>

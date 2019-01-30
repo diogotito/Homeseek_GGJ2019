@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerGroup" id="{e90ac692-9c4e-4582-a54b-95c2e222c6ea}">
+        <property name="color">
+            <value>Green</value>
+        </property>
+        <property name="name">
+            <value>SFX SIDE CHAIN</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{86d8c8f9-c907-4e40-9586-f63b7d102805}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{6c4d5d38-5637-43c8-9dc1-9a50e40bb147}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{91a94adf-ac98-40c6-a9d8-d4382407fee1}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{86d8c8f9-c907-4e40-9586-f63b7d102805}">
+        <relationship name="effects">
+            <destination>{6d3c1ca2-a7aa-4b81-8954-7a95ae48610d}</destination>
+            <destination>{a9c83413-6e7b-491d-b4e9-f1fcb8d0902c}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{6c4d5d38-5637-43c8-9dc1-9a50e40bb147}">
+        <property name="overridingOutputFormat">
+            <value>1</value>
+        </property>
+    </object>
+    <object class="MixerBusFader" id="{6d3c1ca2-a7aa-4b81-8954-7a95ae48610d}"/>
+    <object class="Sidechain" id="{a9c83413-6e7b-491d-b4e9-f1fcb8d0902c}">
+        <relationship name="targets">
+            <destination>{c7840bf7-29bf-4526-9668-32feea4e7e77}</destination>
+        </relationship>
+    </object>
+</objects>

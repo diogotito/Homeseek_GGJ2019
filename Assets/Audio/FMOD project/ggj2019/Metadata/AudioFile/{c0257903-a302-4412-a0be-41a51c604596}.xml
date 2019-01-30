@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c0257903-a302-4412-a0be-41a51c604596}">
+        <property name="assetPath">
+            <value>PLAYER/knock_knock.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.45866666666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3c356ca6-3514-48b7-85b6-26ab796e8090}</destination>
+        </relationship>
+    </object>
+</objects>

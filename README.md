@@ -19,7 +19,7 @@ How to play
   
 ### Gameplay
 
-Your goal is to find the house that are the clues placed on the map referring to. 
+Your goal is to find the house that the clues placed on the map are referring to. 
 When you think you've found that house, knock its door to find out if you got it right.
 You only have 2 guesses, so think wisely!
 

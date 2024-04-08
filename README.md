@@ -1,5 +1,5 @@
 # Homeseek
-![][intro-screen]
+<a href="https://www.youtube.com/watch?v=DkdkHzHnAz8"><img align="right" src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/258150/intro_screen.png?itok=MJt-lxCH&timestamp=1548598193"></a>
 
 You're an abandoned kitten lost in a city trying to find a new loving home.
 Find clues scattered all over the city and try to guess which house will welcome you!
@@ -7,6 +7,13 @@ You'll have to survive avoiding kennel trucks that can catch you while you're se
 
 This is a puzzle game with a voxel art style and a top down view developed for the 2019 edition of the
 [Global Game Jam](https://globalgamejam.org/)
+
+
+### Links
+
+  * [**Download**](https://github.com/diogotito/Homeseek_GGJ2019/releases/tag/v1.0) a playable build of this game.
+  * [GGJ page](https://globalgamejam.org/2019/games/homeseek-0) (the game we uploaded there is buggier)
+
 
 How to play
 ------------------------------------------------------------------------------------------------------------------
@@ -27,13 +34,6 @@ There are a total of 5 clues, each related with a different sense (sight, hearin
 You can review the clues you've found by clicking on the icons at the top right corner.
 
 As you find new clues, you will start being pursued by kennel trucks. Avoid them at all costs!
-
-
-Links
-------------------------------------------------------------------------------------------------------------------
-
-  * [**Download**](https://github.com/diogotito/Homeseek_GGJ2019/releases/tag/v1.0) a playable build of this game.
-  * [GGJ page](https://globalgamejam.org/2019/games/homeseek-0) (the game we uploaded there is buggier)
 
 
 Tools used
@@ -62,7 +62,5 @@ Screenshots
 ![][screenshot-2]
 
 
-
-[intro-screen]: https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/258150/intro_screen.png?itok=MJt-lxCH&timestamp=1548598193
 [screenshot-1]: https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/screenshot_470.png?itok=tMWcHcOg&timestamp=1548620544
 [screenshot-2]: https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/screenshot2_306.png?itok=w7guCF-U&timestamp=1548620544

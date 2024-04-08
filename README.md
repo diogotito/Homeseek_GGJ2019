@@ -8,9 +8,6 @@ You'll have to survive avoiding kennel trucks that can catch you while you're se
 This is a puzzle game with a voxel art style and a top down view developed for the 2019 edition of the
 [Global Game Jam](https://globalgamejam.org/)
 
-
-### Links
-
   * [**Download**](https://github.com/diogotito/Homeseek_GGJ2019/releases/tag/v1.0) a playable build of this game.
   * [GGJ page](https://globalgamejam.org/2019/games/homeseek-0) (the game we uploaded there is buggier)
 
